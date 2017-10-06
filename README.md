@@ -1,0 +1,2 @@
+# WIFINetWorking
+WIFI网络通讯实用工具程序，可获取SSID与设置的MAC地址
